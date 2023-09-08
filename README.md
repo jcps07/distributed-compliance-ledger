@@ -173,7 +173,7 @@ but they may be provided in the future.
 
 After the CLI or REST API is configured and Account with an appropriate role is created,
 the following instructions from [how-to.md](docs/how-to.md) can be used for every role
-(see [Use Case Diagrams](docs/use_cases)):
+(see [Use Case Diagrams](docs/use_cases)): 
 
 - [Trustee](docs/how-to.md#trustee-instructions)
   - propose new accounts
